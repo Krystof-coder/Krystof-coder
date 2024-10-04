@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Krystof-coder
-- 👀 I’m interested in web and AI development
+- 👀 I code every fuck*ng shit that comes to mind
 - 🧑‍💻 I know languages like Python, C#, JS
-- 🏃‍♂️ I like any kind of sport 
+- 🏃‍♂️ I like any kind of sport
+- Ability to not eat my keyboard over a bug
 
 <!---
 Krystof-coder/Krystof-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
